@@ -1,0 +1,27 @@
+categories of CSS frameworks:
+
+- component based 
+
+includes HTMl and CSS
+
+
+- Utility-first
+
+inlcudes the CSS and we use the class of the CSS
+
+
+- Css-in-js
+
+react
+angular js
+
+
+popular one:
+
+Bootstrap
+
+Tailwind CSS
+
+
+how to Setup the bootstrap:
+
